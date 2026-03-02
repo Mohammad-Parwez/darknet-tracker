@@ -1,0 +1,5 @@
+{
+  "name": "AssetGuard - Dark Web Monitor",
+  "description": "Monitor domains and email addresses for dark web exposure and data breaches in real-time.",
+  "requestFramePermissions": []
+}
